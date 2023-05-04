@@ -7,6 +7,7 @@ body{
     width: 99%;
     margin: 0 auto;
 }
+/* --Header Part-- */
 header{
     background-image: url(./assets/img/ban.jpg);
     width: 100%;
@@ -105,6 +106,7 @@ nav ul li a{
     transform: scale(1.1);
     background-color: rgb(33, 5, 59);
 }
+/* --About-part-- */
 .about-part{
     min-height: 550px;
     display: flex;
@@ -158,6 +160,7 @@ font-size: 20px;
     background-color: orange;
     color: #fff;
 }
+/* --Services-Part-- */
 
 .Services{
     min-height: 750px;
@@ -225,6 +228,8 @@ font-size: 20px;
 .box-part-2{
     margin-top: 30px;
 }
+
+/* --Projects-Part-- */
 .projects{
     min-height: 750px;
     position: relative;
@@ -289,6 +294,8 @@ font-size: 20px;
     width: 100%;
     
 }
+
+/* --Working-Part-- */
 .working{
     min-height: 300px;
     position: relative;
@@ -352,6 +359,8 @@ font-size: 20px;
     padding: 10px;
     margin-bottom: 15px; 
 }
+
+/* --About-me-Part-- */
 .about-me{
     min-height: 1155px;
     background-color: aquamarine;
@@ -467,6 +476,8 @@ font-size: 20px;
     top: 730px;
     border-radius: 50%;
 }
+
+/* --Clients-Part-- */
 .clients{
     min-height: 440px;
     background-color: black;
@@ -565,6 +576,8 @@ font-size: 20px;
     border-radius: 50%;
 }
 
+/* --Latest price-Part-- */
+
 .Lat-price{
     min-height: 440px;
     background-color: rgb(146, 145, 145);
@@ -637,6 +650,8 @@ font-size: 20px;
     color: #fff;
     font-size: 20px;
 }
+/* --Our Team-Part-- */
+
 .our-teams{
     min-height: 440px;
     background-color: #fff;
@@ -682,6 +697,7 @@ font-size: 20px;
     width: 30%;
     margin: 5px;
 }
+/* --Latest Articlas-part-- */
 
 .articlas{
     min-height: 670px;
@@ -742,6 +758,7 @@ font-size: 20px;
     color: #fff;
     font-size: 20px;
 }
+/* --Freelancer-Part-- */
 .freelancer {
     min-height: 250px;
     background-color: black;
@@ -769,7 +786,7 @@ font-size: 20px;
 }
 
 
-/* Contact CSS */
+/* --Contact us-Part-- */
 
 .contacts{
     min-height: 670px;
@@ -868,6 +885,7 @@ button {
     margin: 7px;
     font-size: 15px;
 }
+/* --Footer Part-- */
 .footer {
     background-color: #333333;
     height: 250px;
